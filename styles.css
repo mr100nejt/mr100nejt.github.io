@@ -1,0 +1,41 @@
+
+body
+	{
+		background-color: lightblue;
+	}	
+
+
+
+	h1 
+{
+  color: black;
+  margin-left: 15px;
+}
+
+table, th, td 
+{
+	border: 2px solid blue;
+}							
+
+a
+{
+	text-decoration:none;
+	text-shadow: 5px;
+}
+ol
+{
+	"list-style-type":square
+}#im01{
+	 border-radius: 50%;
+}
+
+#im01:hover{
+	opacity: 0.0;
+}
+
+#cage{
+	filter:invert(80%);
+    te
+}
+
+ 
